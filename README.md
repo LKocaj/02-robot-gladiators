@@ -113,5 +113,3 @@ Youtube: https://www.youtube.com/channel/UCT9VNw7nEAY0jqPlHM6zlSw
 Project Link: https://github.com/LKocaj/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-https://github.com/Ileriayo/markdown-badges
