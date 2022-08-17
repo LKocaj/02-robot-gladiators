@@ -38,10 +38,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-we'll use JavaScript to code a single round of Robot Gladiators. When we're done, the game will follow this sequence:
-
 The game will prompt the player to name their robot.
 The player's robot will be initialized with the following properties:
 100 health points
