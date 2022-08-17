@@ -110,6 +110,6 @@ Email: Lawrencecaj@gmail.com
 <br>
 Youtube: https://www.youtube.com/channel/UCT9VNw7nEAY0jqPlHM6zlSw
 <br>
-Project Link: https://github.com/LKocaj/
+Project Link: https://github.com/LKocaj/02-robot-gladiators
 
 <p align="right">(<a href="#top">back to top</a>)</p>
